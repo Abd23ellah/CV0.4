@@ -21,3 +21,4 @@ function game(){
  $(document).on("click",game)
 
  $(document).on("keyup",game)
+ 
