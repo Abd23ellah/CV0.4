@@ -36,4 +36,3 @@
     document.querySelector("h1").innerHTML="Draw!"
    }
 })
- game();
